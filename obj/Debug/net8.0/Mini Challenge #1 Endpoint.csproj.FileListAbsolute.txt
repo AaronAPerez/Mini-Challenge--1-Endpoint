@@ -1,0 +1,33 @@
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\appsettings.Development.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\appsettings.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Mini Challenge #1 Endpoint.exe
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Mini Challenge #1 Endpoint.deps.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Mini Challenge #1 Endpoint.runtimeconfig.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Mini Challenge #1 Endpoint.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Mini Challenge #1 Endpoint.pdb
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.csproj.AssemblyReference.cache
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.AssemblyInfoInputs.cache
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.AssemblyInfo.cs
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.csproj.CoreCompileInputs.cache
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets.build.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets.development.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets\msbuild.Mini Challenge #1 Endpoint.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets\msbuild.build.Mini Challenge #1 Endpoint.props
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mini Challenge #1 Endpoint.props
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mini Challenge #1 Endpoint.props
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\scopedcss\bundle\Mini Challenge #1 Endpoint.styles.css
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Cha.9B4D61B6.Up2Date
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\refint\Mini Challenge #1 Endpoint.dll
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.pdb
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\Mini Challenge #1 Endpoint.genruntimeconfig.cache
+C:\Documents\C#\Mini Challenge #1 Endpoint\obj\Debug\net8.0\ref\Mini Challenge #1 Endpoint.dll
